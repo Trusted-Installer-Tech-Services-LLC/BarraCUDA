@@ -1,0 +1,3 @@
+# BarraCUDA
+Who wants to do something wacky with CUDA ??. Pretty much in the  **** around and find out stage . the best stage in any development process in my opinion
+if your uptight, or just not the type who loves the chaos that the conceptulizing  stage can bring .. you may want to go else where...
